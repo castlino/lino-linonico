@@ -1,0 +1,19 @@
+{
+    "name": "lino/linonico",
+    "description": "A package with all the little PHP helper functions.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lino\\Linonico\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lino Castro",
+            "email": "castlino@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
